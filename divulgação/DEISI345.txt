@@ -1,0 +1,1 @@
+Este projeto está a ser desenvolvido em conjunto com o Instituto Nacional de Emergência Médica (INEM), no sentido de utilização de modelos de Machine Learning para a identificação de alguma casuística das chamadas recebidas, com o propósito de prever o número de chamadas do CODU (Centro de Orientação de Doentes Urgentes) e assim sugerir melhorias na gestão de recursos do mesmo.
